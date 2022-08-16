@@ -1,4 +1,4 @@
-# Fizzbuzz
+# FizzBuzz
 FizzBuzz is a well known programming assignment, asked during interviews.
 
 The given code solves the FizzBuzz problem and uses "Fizz" and "Buzz".
