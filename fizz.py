@@ -1,6 +1,6 @@
 n = int(input())
 
-for x in range(1, n):
+for x in range(1, n,2):
     if x % 3 == 0 and x % 5 == 0:
         print("FizzBuzz")
     elif x % 3 == 0:
