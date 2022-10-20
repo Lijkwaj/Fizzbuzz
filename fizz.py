@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("What is your number? ))
 
 for x in range(1, n,2):
     if x % 3 == 0 and x % 5 == 0:
